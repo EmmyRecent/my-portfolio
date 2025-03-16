@@ -11,7 +11,8 @@ import todo from "./To-Do list app.png";
 import toDo from "./todo.jpg";
 import qr from "./QR code generator.png";
 import cv from "./Chukwuemeka's CV.pdf"; // CV
-import profile from "./Profile.jpg";
+import profile from "./Profile.jpeg";
+import aora from "./aora.png";
 
 export {
   calculator,
@@ -28,4 +29,5 @@ export {
   qr,
   cv,
   profile,
+  aora,
 };

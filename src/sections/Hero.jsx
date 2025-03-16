@@ -41,7 +41,7 @@ const Hero = () => {
             </div>
 
             <p className="max-w-xl pb-5 text-xl">
-              An innovative Frontend Developer, a connoisseur in designing and
+              An innovative Web Developer, a connoisseur in designing and
               building amazing custom web application
             </p>
 

@@ -11,6 +11,7 @@ import {
   todo,
   toDo,
   qr,
+  aora,
 } from "../assets/images";
 
 import { figma, js, react, sketch, wp, xd } from "../assets/icons";
@@ -50,6 +51,12 @@ export const projects = [
       "My minimalistic style portfolio you are viewing right now, based on a Figma design.",
     imgURL: portfolio,
     link: "https://chukwuemeka-e.vercel.app/",
+  },
+  {
+    label: "Aora-YT",
+    description: "A website for Aora social media mobile app",
+    imgURL: aora,
+    link: "https://aora-yt.vercel.app/",
   },
   {
     label: "Movie Browser",
